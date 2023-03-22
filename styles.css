@@ -73,3 +73,10 @@ footer {
     left: 0;
     bottom: 0;
 }
+
+/* .products {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+} */

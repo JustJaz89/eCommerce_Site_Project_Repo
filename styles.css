@@ -10,8 +10,10 @@ html {
     box-sizing: border-box;
     font-size: 62.5%;
 }
-nav {
-    display: block
+.nav {
+    display: flex;
+    flex-direction: row;;
+    background-color: white;
 }
 
 .navbar {
